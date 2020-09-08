@@ -1,0 +1,39 @@
+
+body {
+      background-image: url("legno.JPG");
+      background-size: cover;
+}
+
+span {
+    color: white;
+    font-size: 35px;
+}
+
+#numero {
+    background: orange;
+    border-radius: 60px;
+    padding: 6px;
+}
+
+.notification {
+      color: white;
+      font-size: 30px;
+}
+
+.box {
+    background-color: #d9d9d9;
+    border: 1px solid black;
+}
+
+#gmail {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+#poweredby {
+    text-align: center;
+    font-style: italic;
+    font-size: 30;
+    color: white;
+}
