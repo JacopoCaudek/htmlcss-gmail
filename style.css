@@ -26,14 +26,21 @@ span {
 }
 
 #gmail {
-    text-align: center;
-    font-size: 50px;
-    color: white;
+    /* text-align: center; */
+    /* font-size: 50px;
+    color: white; */
 }
 
 #poweredby {
-    text-align: center;
+    /* text-align: center; */
     font-style: italic;
-    font-size: 30;
+    font-size: 30px;
+    /* font-size: 30;
+    color: white; */
+}
+
+footer {
+    text-align: center;
+    font-size: 50px;
     color: white;
 }
